@@ -98,8 +98,8 @@ elif t == "00":
   print("Updating tool")
   os.system("""
   cd $HOME
-  rm -f -r tool-installer
-  git clone https://github.com/spider863644/tool-installer""")
+  rm -f -r Tool-installer
+  git clone https://github.com/spider863644/Tool-installer""")
 elif t == "J":
   os.system("xdg-open https://chat.whatsapp.com/GpFvNXQDSWfGEh8FvTXJ0W")
 else:
