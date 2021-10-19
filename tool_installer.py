@@ -99,7 +99,8 @@ elif t == "00":
   os.system("""
   cd $HOME
   rm -f -r Tool-installer
-  git clone https://github.com/spider863644/Tool-installer""")
+  git clone https://github.com/spider863644/Tool-installer
+  cd Tool-installer""")
 elif t == "J":
   os.system("xdg-open https://chat.whatsapp.com/GpFvNXQDSWfGEh8FvTXJ0W")
 else:
