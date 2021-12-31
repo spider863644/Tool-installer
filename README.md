@@ -5,12 +5,6 @@
 <h1>Tool Installer:</h1>
 <hr>
 <p>Tool Installer is a script made with python which help user in installing tools automatically</p>
-<center><img src="/storage/emulated/0/Pictures/Screenshot/Screenshot_20211019-200020.png" alt="tool installer picture"
-width="250px"                                         heights="350px">
-<hr>
-<img src="/storage/emulated/0/Pictures/Screenshot/Screenshot_20211019-200026.png" alt="tool installer pix"
-width="250px"
-heights="350px"></center>
 <h2>INSTALLATION AND USAGE:</h2>
 <p>$ apt update</p>
 <p>$ apt upgrade</p>
